@@ -1,13 +1,20 @@
-#1. Just double click on FlightAerodynamicSimulator and execute it.
+#1. Just double click on FlightAerodynamicSimulator.exe and execute it.
 #2. voice-FLIGHT AERODYNAMICS APP FOR AIRCRAFT DESIGN.mp4
 #3. voice-flight-aerodynamic-simulation.mp4
 
-JUst watch this videos and you will be able to run it.
+Please watch these videos and you will be able to understand how it runs.
 
-#4. I need some contributions please make some contributions if possible from
-    your end to this PayPal/Skrill/Xoom ID or Bank Account.
+#4. I seek some contributions to sustain my development activity.
+    If possible make some contribution from your end to this 
+    PayPal/Skrill/Xoom ID or Bank Account.
 
 PayPal/Skrill/Xoom ID: yellowlemontree0821@gmail.com
+--------------------------------------------------------------------------
+Axis Bank Ltd
+Benificiary  name: SUJAN DASMAHAPATRA
+Account no: 914010008557888
+IFSC Code: UTIB0000440
+SWIFT CODE: AXISINBBXXX
 --------------------------------------------------------------------------
 ICICI BANK LTD.
 SAVINGS ACCOUNT NO: 141701516294
