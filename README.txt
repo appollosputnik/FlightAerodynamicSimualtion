@@ -4,8 +4,14 @@
 
 Please watch these videos and you will be able to understand how it runs.
 
-#4. I seek some contributions to sustain my development activity.
-    If possible make some contribution from your end to this 
+#4. I seek some contribution to sustain my development activity.
+    If possible make some contribution from your end to this project. I am
+    trying to shape it better for Technical Aerodynamic calculation...
+#5  I need some financial support for this activity that's why I am giving
+    here my banking id and online PayPal IDs. If you help I can better 
+    survive with my personal life and technical activity. Thanks a lot
+    in advance.
+ 
     PayPal/Skrill/Xoom ID or Bank Account.
 
 PayPal/Skrill/Xoom ID: yellowlemontree0821@gmail.com
