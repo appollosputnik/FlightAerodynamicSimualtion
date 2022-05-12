@@ -11,6 +11,12 @@ Please watch these videos and you will be able to understand how it runs.
     here my banking id and online PayPal IDs. If you help I can better 
     survive with my personal life and technical activity. Thanks a lot
     in advance.
+
+#6. For any queries: please contact me below.
+    Phone: +918420195626
+    Email: yellowmontree0821@gmail.com
+    Skype: engineer3dquartic
+   
  
     PayPal/Skrill/Xoom ID or Bank Account.
 
