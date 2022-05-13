@@ -41,4 +41,8 @@ ACCOUNT NO: 19321000020141
 IFSC CODE: HDFC0001932
 SWIFT CODE: HDFCINBB
 
-
+About this tool:
+#1.  This tool is designed mainly to meet Aerodynamic coefficients, and aerodynamic characteristics
+     for meeting or designing a flying machine or aircraft.
+#2.  During this course of designing geometry, grid and solver for finding flow parameters.
+#3.  Finally we start Aerodynamic calculations for our expected design and conform to the shape and geometry.
