@@ -22,24 +22,6 @@ Please watch these videos and you will be able to understand how it runs.
 
 PayPal/Skrill/Xoom ID: yellowlemontree0821@gmail.com
 --------------------------------------------------------------------------
-Axis Bank Ltd
-Benificiary  name: SUJAN DASMAHAPATRA
-Account no: 914010008557888
-IFSC Code: UTIB0000440
-SWIFT CODE: AXISINBBXXX
---------------------------------------------------------------------------
-ICICI BANK LTD.
-SAVINGS ACCOUNT NO: 141701516294
-BENEFICIARY NAME: SUJAN DASMAHAPATRA
-IFSC CODE: ICIC0001417
-SWIFT CODE: ICICINBBXXX
---------------------------------------------------------------------------
-Bank Account:
-HDFC BANK LTD.
-BENEFICIARY NAME: SUJAN DASMAHAPATRA
-ACCOUNT NO: 19321000020141
-IFSC CODE: HDFC0001932
-SWIFT CODE: HDFCINBB
 
 About this tool:
 #1.  This tool is designed mainly to meet Aerodynamic coefficients, and aerodynamic characteristics
